@@ -1,2 +1,2 @@
 #MyApp
-This is my app
+Sample app ftom the tutorial of git
